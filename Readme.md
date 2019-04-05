@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
-* [LoginView.xaml](./CS/View/LoginView.xaml) (VB: [LoginView.xaml.vb](./VB/View/LoginView.xaml.vb))
+* [LoginView.xaml](./CS/View/LoginView.xaml) (VB: [LoginView.xaml](./VB/View/LoginView.xaml))
 * [LoginView.xaml.cs](./CS/View/LoginView.xaml.cs) (VB: [LoginView.xaml.vb](./VB/View/LoginView.xaml.vb))
 * [LoginViewModel.cs](./CS/ViewModel/LoginViewModel.cs) (VB: [LoginViewModel.vb](./VB/ViewModel/LoginViewModel.vb))
 <!-- default file list end -->
